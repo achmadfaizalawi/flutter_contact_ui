@@ -1,6 +1,6 @@
 # Flutter Contact UI
 
-Flutter Contact is a simple application that allows you to save and manage your contact list. This application is built using the Flutter framework and is equipped with the CRUD (Create, Read, Update, Delete) concept to manage static contact data.
+Flutter contact is a simple application that allows you to save and manage your contact list. This application is built using the Flutter framework and is equipped with the CRUD (Create, Read, Update, Delete) concept to manage static contact data.
 
 ## Key Features
 1. Add new contacts to the list.
