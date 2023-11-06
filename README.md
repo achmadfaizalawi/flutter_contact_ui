@@ -13,7 +13,7 @@ Flutter contact is a simple application that allows you to save and manage your 
 1. Clone this project:
 
    ```bash
-   git clone https://github.com/achmadfaizalawi/flutter_gallery_ui.git
+   git clone https://github.com/achmadfaizalawi/flutter_contact_ui.git
 
 2. Open the project in a Flutter IDE, such as Visual Studio Code or Android Studio.
 
@@ -23,7 +23,7 @@ Flutter contact is a simple application that allows you to save and manage your 
 
 ## Branch
 
-In the application development process, the results of application development are stored outside the master branch. The following are the available branches:
+In the application development process, the results of application development are saved outside the main branch. The following are the available branches:
 - **main**: The first branch in application development.
 - **development/v1**: 
   1. Page development, (home page, contact details page, add contact page), 
