@@ -39,6 +39,6 @@ This project is licensed under the [MIT License](https://github.com/achmadfaizal
 If you have any questions or would like to get in touch with me, you can send an email to achmadfaizalawi@gmail.com or visit my [GitHub profile](https://github.com/achmadfaizalawi).
 
 ## Acknowledgments
-Thank you for using the Flutter Contact App!
+Thank you for using the Flutter Contact UI!
 
 Enjoy using your application, and we hope it's beneficial!
